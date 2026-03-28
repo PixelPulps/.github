@@ -1,0 +1,1 @@
+# Dieses Repository enthält organisationsweite Templates.

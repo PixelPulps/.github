@@ -15,7 +15,7 @@
 !*/.github/ISSUE_TEMPLATE/
 !*/.github/workflows/
 !*/.images/
-
+!*/profile/
 
 ##############################################
 # Ausnahme: diese Dateien NICHT ignorieren
@@ -31,6 +31,8 @@
 !/.github/workflows/
 !/.github/PULL_REQUEST_TEMPLATE.md
 !/.images/
+!/profile/README.md
 !/.gitignore
+!/CONTRIBUTING.md
 !/README.md
 
