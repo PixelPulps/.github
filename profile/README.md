@@ -2,7 +2,6 @@
 # 🎮 Willkommen bei PixelPulps
 
 
-
 ### 🤝 Mitmachen & Beiträge
 
 Wir freuen uns über alle Arten von Beiträgen – neue Ideen, Bugfixes, Features oder Verbesserungen.
