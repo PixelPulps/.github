@@ -1,9 +1,9 @@
 
 # 🎮 Willkommen bei PixelPulps
 
----
 
-## 🤝 Mitmachen & Beiträge
+
+### 🤝 Mitmachen & Beiträge
 
 Wir freuen uns über alle Arten von Beiträgen – neue Ideen, Bugfixes, Features oder Verbesserungen.
 
@@ -38,6 +38,3 @@ Bitte prüfe jedes Repository für spezifische Lizenzdetails.
 
 💙 Vielen Dank für deinen Besuch!
 Lasst uns gemeinsam kleine, kreative und spaßige Tools bauen.
-
----
-
