@@ -1,0 +1,14 @@
+name: 📌 Task
+description: General task
+
+labels:
+  - task
+
+# projects:
+#   - PixelPulps/5
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Beschreibung

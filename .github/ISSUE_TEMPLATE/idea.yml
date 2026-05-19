@@ -1,0 +1,14 @@
+name: 💡 idea
+description: New idea or suggestion
+
+labels:
+  - idea
+
+# projects:
+#   - PixelPulps/5
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Beschreibung

@@ -24,10 +24,10 @@
 # - für Dateien in Unterordnern                  # !/Pfad/zur/Datein.txt
 # - für einzelne Dateien                         # !Datein.txt
 ##############################################
-!/.github/ISSUE_TEMPLATE/bug_report.md
-!/.github/ISSUE_TEMPLATE/feature_request.md
-!/.github/ISSUE_TEMPLATE/idea.md
-!/.github/ISSUE_TEMPLATE/task.md
+!/.github/ISSUE_TEMPLATE/bug_report.yml
+!/.github/ISSUE_TEMPLATE/feature_request.yml
+!/.github/ISSUE_TEMPLATE/idea.yml
+!/.github/ISSUE_TEMPLATE/task.yml
 !/.github/workflows/
 !/.github/PULL_REQUEST_TEMPLATE.md
 !/.images/

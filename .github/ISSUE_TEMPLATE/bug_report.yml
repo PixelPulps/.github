@@ -1,0 +1,14 @@
+name: 🐞 Bug report
+description: Something isn't working
+
+labels:
+  - bug
+
+#projects:
+#  - PixelPulps/5
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Beschreibung
